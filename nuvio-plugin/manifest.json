@@ -6,7 +6,7 @@
   "scrapers": [
     {
       "id": "vietstream",
-      "name": "VietStream (KKphim · Tophim/Motchill · NguonC · Phim4K · VnStream)",
+      "name": "VietStream",
       "description": "Tổng hợp stream m3u8 từ các nguồn phim Việt Nam: KKphim (phimapi.com), Tophim — nhà Motchill/PhimMoi (tophim.top), NguonC (phim.nguonc.com), Phim4K (vsmov.com), VnStream (cobephim.biz). Hỗ trợ Vietsub, Lồng tiếng, Thuyết minh. Nguồn nào chết tự bỏ qua.",
       "version": "1.0.0",
       "author": "henryhnguy",
